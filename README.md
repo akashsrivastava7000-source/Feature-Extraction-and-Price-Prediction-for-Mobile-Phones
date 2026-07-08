@@ -120,56 +120,6 @@ Model performance was evaluated using:
 8. Model Evaluation
 9. Price Prediction
 
----
-
-## 📁 Project Structure
-
-```
-Mobile-Phone-Price-Prediction/
-│
-├── Feature_Extraction_and_Mobile_Phone_Price_Prediction.ipynb
-├── Flipdata.csv
-├── README.md
-├── requirements.txt
-└── images/
-```
-
----
-
-## 🚀 How to Run
-
-1. Clone the repository.
-
-```bash
-git clone https://github.com/your-username/Mobile-Phone-Price-Prediction.git
-```
-
-2. Install dependencies.
-
-```bash
-pip install -r requirements.txt
-```
-
-3. Open the Jupyter Notebook.
-
-```bash
-jupyter notebook
-```
-
-4. Run all notebook cells.
-
----
-
-## 📌 Future Improvements
-
-* Random Forest Regressor
-* XGBoost Regressor
-* Hyperparameter Tuning
-* Cross Validation
-* Model Deployment using Flask or Streamlit
-
----
-
 ## 👨‍💻 Author
 
 **Akash Srivastava**
